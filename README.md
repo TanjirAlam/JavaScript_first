@@ -1,2 +1,2 @@
-# JavaScript_first
-Here is my first javaScript 
+# JavaScript
+Here is first project Tic tac toe game
